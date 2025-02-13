@@ -43,7 +43,7 @@ struct SettingView: View {
                     }
                 }.padding()
                 Spacer()
-                Text("Swift Student Challenge 2025")
+                Text("")
                     .italic()
                     .foregroundColor(.gray)
                 Text("🇹🇭 Kittipakorn Seenak")

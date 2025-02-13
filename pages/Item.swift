@@ -88,7 +88,7 @@ struct ItemsView: View {
                             Text("Next")
                         }
                     }
-                    Text("Oders")
+                    Text("Orders")
                         .foregroundColor(.black)
                         .bold()
                         .font(.system(size: 30))
