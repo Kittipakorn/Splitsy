@@ -3,7 +3,6 @@ Splitsy เป็นแอปที่ช่วยคำนวณและแบ
 <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github.com/Kittipakorn/Splitsy/blob/main/App1.jpg" height="500">
     <img src="https://github.com/Kittipakorn/Splitsy/blob/main/App2.jpg" height="500">
-  <img src="https://github.com/Kittipakorn/Splitsy/blob/main/App3.jepg" height="500">
   <img src="https://github.com/Kittipakorn/Splitsy/blob/main/App3.jpeg" height="500">
     <img src="https://github.com/Kittipakorn/Splitsy/blob/main/App4.jpg" height="500">
 </div>
